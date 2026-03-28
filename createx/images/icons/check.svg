@@ -1,0 +1,35 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.000000" height="24.000000" fill="none" customFrame="#000000">
+	<defs>
+		<g id="pixso_custom_effect_0">
+			<effect x="0.000000" y="4.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_0" width="24.000000" height="24.000000" x="0.000000" y="0.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_0)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="4.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<g id="pixso_custom_effect_1">
+			<effect x="0.000000" y="4.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.25" effectType="dropShadow" stdDeviation="4" radius="0" />
+		</g>
+		<filter id="filter_1" width="18.000000" height="16.000000" x="3.000000" y="4.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_1)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="4.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="1.33333337" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+	</defs>
+	<g id="Сочетание 2">
+		<g filter="url(#filter_0)">
+			<rect id="Plate" width="16.000000" height="16.000000" x="4.000000" y="0.000000" rx="3.000000" fill="rgb(255,63,58)" />
+			<rect id="Plate" width="15.000000" height="15.000000" x="4.500000" y="0.500000" rx="2.500000" stroke="rgb(255,63,58)" stroke-width="1.000000" />
+		</g>
+		<g filter="url(#filter_1)">
+			<path id="check" d="M16.8277 4.19526C17.0574 4.45561 17.0574 4.87772 16.8277 5.13807L10.9454 11.8047C10.7156 12.0651 10.3432 12.0651 10.1135 11.8047L7.17229 8.47141C6.94257 8.21105 6.94257 7.78894 7.17229 7.52859C7.40201 7.26825 7.77446 7.26825 8.00418 7.52859L10.5294 10.3905L15.9958 4.19526C16.2255 3.93491 16.598 3.93491 16.8277 4.19526Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+		</g>
+	</g>
+</svg>
